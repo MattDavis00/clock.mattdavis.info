@@ -1,3 +1,3 @@
 # clock.mattdavis.info
 
-#### A simple JavaScript clock with both dark theme and light theme.
+#### A very simple and responsive JavaScript clock, featuring both a dark theme and light theme.
