@@ -77,10 +77,6 @@ input:checked + .slider {
     background-color: #dddddd;
 }
 
-input:focus + .slider {
-    box-shadow: 0 0 1px #dddddd;
-}
-
 input:checked + .slider:before {
     background-color: #444444;
     -webkit-transform: translateX(26px);
